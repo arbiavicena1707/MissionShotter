@@ -1,0 +1,60 @@
+2+3=?;
+5;
+6;
+4;
+5;
+|
+Bulan apa yang memiliki 28 hari?;
+Semua bulan;
+Februari;
+Januari;
+Semua bulan;
+|
+Apa warna langit pada siang hari yang cerah?;
+Biru;
+Hijau;
+Merah;
+Biru;
+|
+Siapa presiden pertama Indonesia?;
+Soekarno;
+Soeharto;
+Habibie;
+Soekarno;
+|
+Ibu kota Indonesia adalah?;
+Jakarta;
+Surabaya;
+Bandung;
+Jakarta;
+|
+Berapa sisi yang dimiliki oleh segitiga?;
+3;
+4;
+5;
+3;
+|
+Bahan utama nasi goreng adalah?;
+Nasi;
+Tepung;
+Mie;
+Nasi;
+|
+Hewan apa yang bisa terbang?;
+Burung;
+Kuda;
+Kucing;
+Burung;
+|
+Apa huruf pertama dalam alfabet?;
+A;
+B;
+C;
+A;
+|
+2x5=?;
+10;
+15;
+20;
+10;
+|
