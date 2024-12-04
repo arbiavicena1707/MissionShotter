@@ -1,0 +1,63 @@
+Bulan apa yang memiliki 28 hari?;
+Semua bulan;
+Februari;
+Januari;
+Semua bulan;
+|
+Apa warna langit pada siang hari yang cerah?;
+Biru;
+Hijau;
+Merah;
+Biru;
+|
+Siapa presiden pertama Indonesia?;
+Soekarno;
+Soeharto;
+Habibie;
+Soekarno;
+|
+Ibu kota Indonesia adalah pada 2024?;
+Jakarta;
+IKN;
+Bandung;
+Jakarta;
+|
+Berapa sisi yang dimiliki oleh Lingkaran?;
+0;
+tidak terhingga;
+1;
+1;
+|
+Hewan apa yang bisa terbang?;
+Burung;
+Kuda;
+Kucing;
+Burung;
+|
+2x5=?;
+10;
+15;
+20;
+10;
+|
+Molekul Terkecil adalah?;
+Atom;
+Karbon Monoksida;
+hidrogen diatomik;
+hidrogen diatomik;
+|
+terinspirasi dari siapakah karakter al-haytam dari genshin impact?;
+Nicolaus Copernicus;
+Hasan Ibn Al-Haytham;
+Al-Khawarizmi;
+Hasan Ibn Al-Haytham;
+|
+1+1x0=?;
+0;
+1/2;
+1;
+1;
+|
+
+
+
