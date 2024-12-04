@@ -1,8 +1,9 @@
+
 Bulan apa yang memiliki 28 hari?;
 Semua bulan;
 Februari;
 Januari;
-Semua bulan;
+Februari;
 |
 Apa warna langit pada siang hari yang cerah?;
 Biru;
